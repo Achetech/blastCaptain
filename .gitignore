@@ -1,4 +1,4 @@
 data
-.codegpt
+.codegpt/
 test.py
-/dataset
+dataset/
